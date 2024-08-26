@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">Just, I learning.</h3>
 
-- 🔭 I’m currently working on [a Discord bot.](https://discord.gg/8UT5cXPz9B)
+- 🔭 I’m currently working on [a Discord bot.]([https://discord.gg/vHMtfJ2E9J])
 
 - 🌱 I’m currently learning **about cybersecurity.**
 
