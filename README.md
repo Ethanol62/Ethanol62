@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">Just, I learning.</h3>
+<h3 align="center">Just, I am learning.</h3>
 
 - 🔭 I’m currently working on [a Discord bot](https://discord.gg/vHMtfJ2E9J).
 
